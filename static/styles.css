@@ -44,7 +44,7 @@ header {
     grid-column: 1 / 3;
     text-align: center;
     margin-top: 1rem;
-    background-image: url("../img/map.webp");
+    background-image: url("./img/map.webp");
     background-position: center;
     min-height: 4rem;
     border: 1px solid #ddd;
