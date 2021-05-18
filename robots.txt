@@ -1,8 +1,7 @@
 User-agent: Twitterbot
 Disallow: *
-Allow: /img/
+Allow: /static/img/
 
 User-Agent: *
-Disallow: /css/
-Disallow: /img/
+Disallow: /static/
 Host: https://mforv.github.io/eldenjord
